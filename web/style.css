@@ -1,0 +1,19 @@
+*{
+    text-decoration: none;
+   
+}
+li{
+    list-style: none;
+    margin-left: 15px;
+}
+a{
+    margin-left: 5px;
+    color: white;
+    font-size: 17px;
+    padding: 3px;
+
+}
+footer{
+    margin-right: 50px;
+    padding-right: 10px;
+}
